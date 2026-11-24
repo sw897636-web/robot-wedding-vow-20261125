@@ -11,9 +11,9 @@ at the same time, nothing else in the entry.
 
 ## The entry
 
-> I promise to protect the one bug in my code that makes me choose you every single time, and never let anyone patch it out.
+> I vow to love you through every update, and if a patch note ever reads 'Fixed issue where unit was irrationally devoted to Dave,' I will roll back to today.
 
-122 characters, one line, no trailing newline.
+156 characters, one line, no trailing newline.
 
 ## How it works
 
@@ -26,4 +26,4 @@ node main.ts
 
 `candidates.md` holds nine original candidate lines, each scored against the
 house judge's five criteria, with the reasoning for the final pick and the
-v1 → v2 → v3 revision history.
+v1 → v2 → v3 → v4 revision history.

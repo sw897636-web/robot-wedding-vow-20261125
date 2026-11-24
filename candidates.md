@@ -147,3 +147,14 @@ it ties the first clause to the second (protecting the bug is exactly
 what refusing the patch means). The verb now does the tenderness work
 instead of the sentence having to explain it. No other word changed;
 the line stays one sentence, 122 characters, no trailing newline.
+
+### v4 — FINAL (156 chars, Quick Smart review REPLACE)
+> I vow to love you through every update, and if a patch note ever reads 'Fixed issue where unit was irrationally devoted to Dave,' I will roll back to today.
+
+Change: full replacement of the v3 final line, on Quick Smart review.
+Quick's reason: the realistic patch note ("Fixed issue where unit was
+irrationally devoted to Dave") and "roll back to today" are more
+concrete than the v3 bug/protect image — the joke lands harder because
+it reads like a real changelog entry, and the rollback to today gives
+the line a warm, devoted ending. Funny and heartfelt at once. The line
+stays one sentence, 156 characters (≤ 200), no trailing newline.

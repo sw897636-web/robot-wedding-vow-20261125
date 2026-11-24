@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const VOW =
-  "I promise to protect the one bug in my code that makes me choose you every single time, and never let anyone patch it out.";
+  "I vow to love you through every update, and if a patch note ever reads 'Fixed issue where unit was irrationally devoted to Dave,' I will roll back to today.";
 
 // The entry must be a single line, 1-200 characters, and not blank.
 // Refuse to write anything invalid rather than emit a malformed entry.
